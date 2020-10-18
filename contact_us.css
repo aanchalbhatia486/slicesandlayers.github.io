@@ -1,0 +1,51 @@
+﻿.level1{
+	background-color:darkred;
+	background-image:url('aanchal.png'); /* The image used */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+ .social{
+	color:#f2f2f2;
+	font-family:'Indie Flower', cursive;
+	text-align:center;
+	margin-bottom:auto;
+	font-size:xx-large;
+	margin-left:5px;
+	margin-right:5px;
+	}
+.main{
+	text-align:left;
+	font-size:xx-large;
+	margin:auto;
+	float:right
+}
+a{
+	text-decoration:none;
+	color:#f2f2f2
+}
+.contacting{
+	height:30%;
+	width:40%;
+	margin-bottom:2%;
+	margin-left:30%;
+	margin-right:5%;
+	margin-top:2%;
+	padding:5px;
+	border-radius:10px;
+	display:block;
+	background-color:#f2f2f2;
+	border-bottom-width:72pt}
+
+}
+h4{
+	text-align:center
+}
+.fab fa-whatsapp{
+	color:#F2F2F2;
+}
+.fas fa-phone-alt{
+	color:#f2f2f2
+}
+.fab fa-instagram{
+	color:#f2f2f2
+}

@@ -1,0 +1,60 @@
+﻿html{
+	background-color:darkred;
+	background-image:url('aanchal.png'); /* The image used */
+   background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.gallery {
+ width:20%;
+	height:10%;
+	float:left;
+	padding:5px;
+	margin:4%;
+	border-radius:7px;
+	border:medium solid black;
+	display:inline-table;
+	background-image:url('bg3.jpeg'); /* The image used */
+  	background-color: #cccccc; /* Used if the image is unavailable */
+  	height: 500px; /* You must set a specified height */
+  	background-position: center; /* Center the image */
+  	background-repeat: no-repeat; /* Do not repeat the image */
+  	background-size: cover; /* Resize the background image to cover the entire container */
+	}
+
+.gallery:hover {
+  border: 1px solid #777;
+}
+
+.gallery img {
+ width:70%;
+	height:60%;
+	float:left;
+	padding:5px;
+	margin:10%;
+	border-radius:7px;
+	border:medium solid black;
+	text-align:center;
+	position:static;
+	align:centre;
+	
+	
+
+}
+
+.desc {
+  padding: 15px;
+  text-align:center;
+  float:left;
+  color:#F2F2F2;
+  font-family: 'Cormorant Unicase', serif;	
+
+}
+.main{
+	text-align:left;
+	font-size:xx-large;
+	margin:auto;
+	float:right;
+	}
+#cupcake{
+	float:left}

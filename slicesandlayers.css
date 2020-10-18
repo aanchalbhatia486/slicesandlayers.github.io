@@ -1,0 +1,126 @@
+﻿
+.level1{
+	background-color:darkred;
+	background-image:url('aanchal.png'); /* The image used */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+
+	
+		
+}
+.image1{width:10%;
+	height:10%;
+	padding:30px}
+
+	
+
+
+
+h1{
+	text-align:right;
+	font-family:'Indie Flower', cursive;
+	padding-right:30px;
+	color:#F4F4F4
+}
+
+.image2{
+	height:20%;
+	width:30%;
+	margin-bottom:3%;
+	margin-left:13%;
+	margin-right:3%;
+	margin-top:2%;
+	padding:5px;
+	border-radius:10px;
+	float:left
+	
+	
+		
+}
+h4{
+	font-family:'Indie Flower', cursive;
+	text-align:right;
+	color:#FFFFFF;
+	padding-right:30px;
+	font-size:25px
+}
+.main{
+	font-family:'Indie Flower', cursive;
+	text-align:center;
+	color:#FFFFFF;
+	padding-right:30px;
+	float:inherit;
+	margin-bottom:30px;
+	margin-top:0;
+	font-size:48pt;
+	
+	}
+
+footer{
+	background-color:maroon;
+	text-align:center;
+	margin:auto;
+	padding:30px
+}
+.main{
+	text-align:left;
+	font-size:xx-large;
+	margin:auto;
+	float:right
+}
+.color{
+	background-color:maroon;
+
+}
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 27px;
+  font-family:'Indie Flower', cursive;
+  margin-top:0}
+ /* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.space{
+		margin-bottom:30px
+}
+.sideheading{
+	text-align:center;
+	color:black;
+	margin-bottom:5%;
+	margin-left:3%;
+	margin-right:3%;
+	margin-top:2%;
+	padding:10px;
+	font-size:32pt;
+	background-image:url('bg6.jpg'); /* The image used */
+    height: 500px; /* You must set a specified height */
+  	background-position: center; /* Center the image */
+  	background-repeat: no-repeat; /* Do not repeat the image */
+  	background-size: cover; /* Resize the background image to cover the entire container */
+  	float:left;
+	width:40%;
+	height:30%;
+	border:thin black solid;
+	border-radius:10px;
+	font-family: 'Sunshiney', cursive;
+	
+	
+	}
+.secondpara{color:maroon;
+	margin-bottom:3%;
+	margin-left:5%;
+	margin-right:5%;
+	margin-top:7%;
+	padding:10px;
+	font-size:x-large;
+	float:none;
+	text-align:center;
+	font-family: 'IM Fell Double Pica SC', serif;
+}
